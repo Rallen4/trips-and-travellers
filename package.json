@@ -1,0 +1,27 @@
+{
+  "name": "trips-and-travellers",
+  "version": "1.0.0",
+  "description": "In this mini-project, you will work with a group to build an API using Node.js, Express.js, MySQL, and Sequelize, and you will deploy it to Heroku.",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rallen4/trips-and-travellers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rallen4/trips-and-travellers/issues"
+  },
+  "homepage": "https://github.com/Rallen4/trips-and-travellers#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.8.0"
+  }
+}
